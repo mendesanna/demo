@@ -1,14 +1,52 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": "9b565b11-7311-5b5e-a699-97873dffb361",
+    "name": "Talkdesk AppConnect",
+    "description": "This example we have 3 “pages” handled by the router",
+    "type": "Confluence",
+    "status": true
+  },
+  {
+    "id": "470fedc5-489e-5acb-a200-c85adaa18356",
+    "name": "Integrations",
+    "description": "This example we have 3 “pages” handled by the router",
+    "type": "Git",
+    "status": false
+  },
+  {
+    "id": "52714d80-e3c4-5593-b9a3-e2ff484be372",
+    "name": "Agent Certification",
+    "description": "This example we have 3 “pages” handled by the router",
+    "type": "Visual Studio",
+    "status": false
+  },
+  {
+    "id": "8d68c357-59e6-505a-b0e1-4953196b14df",
+    "name": "Callbar",
+    "description": "This example we have 3 “pages” handled by the router",
+    "type": "Commit",
+    "status": true
+  },
+  {
+    "id": "dd024ed5-efae-5785-addc-09e592066e5c",
+    "name": "Explore",
+    "description": "This example we have 3 “pages” handled by the router",
+    "type": "Push",
+    "status": true
+  },
+  {
+    "id": "f820ad5d-32d0-5bb7-aed4-cbc74bcf0b47",
+    "name": "Settings",
+    "description": "This example we have 3 “pages” handled by the router",
+    "type": "Pull",
+    "status": true
+  },
+  {
+    "id": "7f89f001-9d7d-52f1-82cb-8f44eb1e4680",
+    "name": "Basics",
+    "description": "This example we have 3 “pages” handled by the router",
+    "type": "Confluence",
+    "status": true
   }
-}
+]
+
